@@ -10,32 +10,31 @@ Successfully ran Docker Compose to start FastAPI, PostgreSQL, and pgAdmin.
 
 ## (A) Create Tables
 
-![Create Tables](images/(A) Create Tables.png)
+![Create Tables](images/a_create_tables.png)
 
 ---
 
 ## (B) Insert Records
 
-![Insert Records](images/(B) Insert Records.png)
+![Insert Records](images/b_insert_records.png)
 
 ---
 
 ## (C) Query Data
 
-![Query Data](images/(C) Query Data.png)
+![Query Data](images/c_query_data.png)
 
 ---
 
 ## (D) Update a Record
 
-![Update Record](images/(D) Update a Record.png)
+![Update Record](images/d_update_record.png)
 
 ---
 
 ## (E) Delete a Record
 
-![Delete Record](images/(E) Delete a Record.png)
-
+![Delete Record](images/e_delete_record.png)
 ---
 
 ## Reflection
